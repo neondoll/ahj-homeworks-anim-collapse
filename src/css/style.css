@@ -1,0 +1,10 @@
+@import "_normalize.css";
+@import "_btn.css";
+@import "_card.css";
+@import "_collapse.css";
+
+#app { min-height: 100vh; }
+
+.container { padding: 3.75rem 3.25rem; }
+
+.container > * + * { margin-top: 1rem; }
